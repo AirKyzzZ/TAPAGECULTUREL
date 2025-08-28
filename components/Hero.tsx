@@ -31,13 +31,13 @@ export default function Hero({ headline, sub, backgroundImage = '/assets/hero-bg
         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center animate-scale-in">
           <Link
             href="/events"
-            className="bg-tapage-periglacial text-tapage-cod px-8 py-4 rounded-md text-lg font-medium hover:bg-white transition-all duration-300 transform hover:scale-105"
+            className="bg-tapage-periglacial text-tapage-cod px-4 sm:px-6 lg:px-8 py-4 rounded-md text-lg font-medium hover:bg-white transition-all duration-300 transform hover:scale-105"
           >
             VOIR LES PROCHAINS ÉVÉNEMENTS
           </Link>
           <Link
             href="/contact"
-            className="border-2 border-tapage-periglacial text-tapage-periglacial px-8 py-4 rounded-md text-lg font-medium hover:bg-tapage-periglacial hover:text-tapage-cod transition-all duration-300"
+            className="border-2 border-tapage-periglacial text-tapage-periglacial px-4 sm:px-6 lg:px-8 py-4 rounded-md text-lg font-medium hover:bg-tapage-periglacial hover:text-tapage-cod transition-all duration-300"
           >
             S'ABONNER
           </Link>
