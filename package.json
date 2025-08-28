@@ -1,0 +1,32 @@
+{
+  "name": "tapage-culturel",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "export": "next export",
+    "start": "next start",
+    "type-check": "tsc --noEmit",
+    "lint": "next lint",
+    "generate-sitemap": "node scripts/generate-sitemap.js",
+    "build:full": "npm run build && npm run export && npm run generate-sitemap",
+    "check-structure": "node scripts/check-project-structure.js"
+  },
+  "dependencies": {
+    "next": "^14.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "autoprefixer": "^10.4.16",
+    "eslint": "^8.0.0",
+    "eslint-config-next": "^14.0.0",
+    "postcss": "^8.4.31",
+    "tailwindcss": "^3.3.5",
+    "typescript": "^5.2.0"
+  }
+}

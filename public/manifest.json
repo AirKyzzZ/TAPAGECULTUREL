@@ -1,0 +1,21 @@
+{
+  "name": "Tapage Culturel",
+  "short_name": "Tapage",
+  "description": "Collectif musical bordelais — soirées électroniques, éclectiques & visuelles",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1a1a1a",
+  "theme_color": "#1a1a1a",
+  "icons": [
+    {
+      "src": "/assets/logo.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/assets/logo.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}

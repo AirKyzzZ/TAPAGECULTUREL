@@ -1,0 +1,23 @@
+[
+  {
+    "id": "g1",
+    "src": "/assets/events/event_1.jpg",
+    "alt": "Crowd dancing at Tapage event",
+    "caption": "Tapage @ Lorganism — 09/11/2024",
+    "credit": "Photographe: @milenadelorme"
+  },
+  {
+    "id": "g2",
+    "src": "/assets/events/event_2.jpg",
+    "alt": "DJ performance at Tapage event",
+    "caption": "Tapage @ I.BOAT — 01/02/2025",
+    "credit": "Photographe: @hugo_bensous"
+  },
+  {
+    "id": "g3",
+    "src": "/assets/events/event_3.jpg",
+    "alt": "Venue atmosphere at Tapage event",
+    "caption": "Tapage @ Burdigala — 16/11/2024",
+    "credit": "Photographe: @pialylu"
+  }
+]

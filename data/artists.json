@@ -1,0 +1,38 @@
+[
+  {
+    "id": "romywhite",
+    "name": "Romy White",
+    "bio": "DJ franco-néerlandaise kabyle de la scène underground bordelaise, trouve ses racines dans la danse. Depuis toujours, elle exprime sa créativité à travers le mouvement, et c'est cette passion qui l'a naturellement conduite vers le mix. Pour elle, être DJ est une façon de prolonger cette énergie en créant des sets qui invitent à la danse. Chaque morceau qu'elle choisit, chaque transition, est pensé pour activer une connexion entre la musique et les corps en mouvement, transformant chaque performance en une expérience immersive et rythmée. Romy puise son inspiration dans une large palette de genres musicaux : Afro Beat, Baile Funk, Jersey Club, Kick Shatta et Dancehall, créant des atmosphères vibrantes et solaires. Passionnée par la culture sonore mondiale, ses influences lui permettent de faire voyager son audience, offrant une immersion totale dans des univers rythmés et envoûtants. Sur la scène bordelaise, elle est un électron libre, apportant une touche unique de chaleur et de vibres tropicales. Son dernier mix, Your Body Will Not Resist, est un concentré de ce qui fait l'essence de Romy White : de l'amour, de bons remixes, et une énergie contagieuse.",
+    "genres": ["Afro Beat", "Baile Funk", "Jersey Club", "Dancehall"],
+    "photo": "/assets/artists/romy.png",
+    "social": { "instagram": "https://instagram.com/romywhite" },
+    "mixUrl": null
+  },
+  {
+    "id": "swanndelamancha",
+    "name": "Swann de la Mancha",
+    "bio": "Véritable explorateur du web et des disquaires de quartier, son amour pour la découverte de nouvelles pépites se joint à sa seconde passion : les partager. Swann propose des sets éclectiques et variés, les styles se chevauchent afin d'offrir une expérience remplie de rebondissements. Son but premier est de livrer un set dansant et efficace, explorant la progressive house, l'acid, la trance 90's/00's, la hard house ou encore la ghetto house, un clin d'oeil à son amour pour le hip-hop. Il aime aussi revenir à ses origines musicales plus disco et soulful lorsque l'occasion se présente. Lors d'une performance Swann veut procurer une véritable expérience au public, interagir avec lui et créer une énergie commune à travers son aventure musicale. Il rejoint récemment Tapage en tant que DJ/promoteur, et devient résident d'Amplitudes Radio en 2025.",
+    "genres": ["Progressive House", "Acid", "Trance", "Hard House"],
+    "photo": "/assets/artists/swann.png",
+    "social": {},
+    "mixUrl": null
+  },
+  {
+    "id": "hugob",
+    "name": "Hugo B",
+    "bio": "Depuis tout jeune, j'ai été immergé dans la culture hip-hop, et assez rapidement, j'ai commencé à explorer les années 80-90, du disco à la house. J'aime l'énergie de ces styles, leur capacité à faire bouger. C'est là que j'ai développé une vraie passion pour la house, sous tous ses genres : deep, garage, UK, et plus encore. Ces influences se retrouvent dans mes sets, où je passe d'un genre à l'autre, avec toujours une sélection précise et recherchée.",
+    "genres": ["House", "Deep", "Garage", "UK"],
+    "photo": "/assets/artists/hugob.png",
+    "social": {},
+    "mixUrl": null
+  },
+  {
+    "id": "ziegler",
+    "name": "Ziegler",
+    "bio": "Passionné de musiques électroniques depuis près de 10 ans, met un point d'honneur à faire voyager les âmes dans des contrées inhabituelles. Son amour pour les rythmes frénétiques n'a d'égal que son appétence pour les sonorités organiques. DJ, DA ou chargé de production en festival, il a fait ses armes dans différentes structures de la métropole bordelaise lui permettant de se construire une solide expérience dans le milieu de la musique, lui donnant la possibilité d'aiguiser sa sensibilité musicale. Il saura mettre cette dernière au service des curieux, sans jamais les décevoir.",
+    "genres": ["Electronica", "Organic", "Club"],
+    "photo": "/assets/artists/ziegler.png",
+    "social": {},
+    "mixUrl": null
+  }
+]

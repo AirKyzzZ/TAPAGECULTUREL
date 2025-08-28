@@ -1,0 +1,35 @@
+[
+  {
+    "id": "tapage-envahit-2024-11-09",
+    "title": "TAPAGE ENVAHIT — Lorganism",
+    "date": "2024-11-09",
+    "venue": "Lorganism, Bordeaux",
+    "lineup": ["Binary Digit", "Coffiiz"],
+    "cover": "/assets/events/event_1.jpg",
+    "description": "TAPAGE ENVAHIT au Lorganism avec Binary Digit et Coffiiz. Soirée électro / new wave.",
+    "ticketUrl": "https://link-to-ticketing.example/event1",
+    "instagramUrl": "https://instagram.com/p/example1"
+  },
+  {
+    "id": "tapage-croisiere-2024-11-16",
+    "title": "TAPAGE EN CROISIÈRE",
+    "date": "2024-11-16",
+    "venue": "Bateau Burdigala, Bordeaux",
+    "lineup": ["Tapage"],
+    "cover": "/assets/events/event_3.jpg",
+    "description": "Tapage prend la mer — musique by Tapage sur le Bateau Burdigala.",
+    "ticketUrl": "https://link-to-ticketing.example/event2",
+    "instagramUrl": "https://instagram.com/p/example2"
+  },
+  {
+    "id": "tapage-iboat-2025-02-01",
+    "title": "TAPAGE x REFLECT",
+    "date": "2025-02-01",
+    "venue": "I.BOAT, Bordeaux",
+    "lineup": ["DJ Fuckoff", "Saligo"],
+    "cover": "/assets/events/event_2.jpg",
+    "description": "Tapage x Reflect au I.BOAT — une nuit énergique.",
+    "ticketUrl": "https://link-to-ticketing.example/event3",
+    "instagramUrl": "https://instagram.com/p/example3"
+  }
+]
