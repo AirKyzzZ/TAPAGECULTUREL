@@ -155,7 +155,7 @@ Modifier les composants dans `/components/` pour changer la structure
 Créer `.env.local` (optionnel) :
 ```bash
 NEXT_PUBLIC_SITE_URL=https://votre-site.com
-NEXT_PUBLIC_CONTACT_EMAIL=contact@votre-site.com
+NEXT_PUBLIC_CONTACT_EMAIL=tapagebordeaux@gmail.com
 ```
 
 ### Tailwind CSS

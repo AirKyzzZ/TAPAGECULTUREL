@@ -316,7 +316,7 @@ className="grid grid-cols-1 lg:grid-cols-4"
 **Variables disponibles** :
 ```bash
 NEXT_PUBLIC_SITE_URL=https://votre-site.com
-NEXT_PUBLIC_CONTACT_EMAIL=contact@votre-site.com
+NEXT_PUBLIC_CONTACT_EMAIL=tapagebordeaux@gmail.com
 ```
 
 ### 3. Scripts de Build

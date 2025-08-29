@@ -29,7 +29,7 @@ export const productionConfig = {
     contact: {
       enabled: true,
       netlifyForms: true,
-      fallbackEmail: 'contact@tapage.example',
+      fallbackEmail: 'tapagebordeaux@gmail.com',
     },
   },
   
